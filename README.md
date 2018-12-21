@@ -24,6 +24,8 @@ These instructions will get the vmw utilities up and running:
 
 3.  [OPTIONAL] vmw utilities can allow the user to automatically log into vCenter with credentials saved on their local machine.  Otherwise, it will prompt the user for login information to the vCenter host.  See Configuration > Config file for more details.
 
+4.  Minor changes in the code is necessary for *vmw-vms-ds-match.py* and *vmw-host-swapfile.py*.  The changes involves applying names of datastores that is specific to their environment.  Refer to the comments in the code for more details.
+
 
 ## Prerequisites
 
