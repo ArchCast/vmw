@@ -38,7 +38,7 @@ These instructions will get the vmw utilities up and running:
 
 **Credential**
 
-* Username and password with appropriate (or adequate) privileges for retrieving information from the vCenter host.  Additionally, using vmw-vms-poweron.py requires appropriate privileges to change the virtual machines' power state.  Login(s) with [Administrator Role](https://docs.vmware.com/en/VMware-vSphere/6.7/com.vmware.vsphere.security.doc/GUID-93B962A7-93FA-4E96-B68F-AE66D3D6C663.html) will work with vmw.
+* Username and password with appropriate (or adequate) privileges for retrieving information from the vCenter host.  Additionally, using *vmw-vms-poweron.py* requires appropriate privileges to change the virtual machines' power state.  Login(s) with [Administrator Role](https://docs.vmware.com/en/VMware-vSphere/6.7/com.vmware.vsphere.security.doc/GUID-93B962A7-93FA-4E96-B68F-AE66D3D6C663.html) will work with vmw.
 
 
 
