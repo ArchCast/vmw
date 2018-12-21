@@ -1,14 +1,14 @@
 # vmw
 Codex of my VMware-related CLI utilities written in Python 2.
 
-A collection of quick utilities that allow users to generate reports associated with VMware virtual machines and changing its powered state.
+A collection of quick utilities that allow users to generate reports associated with VMware virtual machines, ESXi hosts, datastores and changing its powered state.
 
 
 ## Utilities:
 
 **vmw-vms-ds-match.py**: Generates a CSV output of all virtual machines that uses any of the datastores the user have defined.
 
-**vmw-host-swapfile.py**: Generates a CSV output of all ESX/ESXi hosts and the datastore used by the host's swapfile.
+**vmw-host-swapfile.py**: Generates a CSV output of all ESXi hosts and the datastore used by the host's swapfile.
 
 **vmw-vms-poweron.py**:  Generates a list of all virtual machines and its power state.  Then the user may choose the toggle (on/off) the power state of the VM.
 
