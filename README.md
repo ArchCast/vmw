@@ -69,3 +69,8 @@ Administrator
 Again, the information in this config file is stored in plain text.
 
 The default directory and filename for the config file are defined in the variables: *vcenter_conf_path* and *vcenter_conf_file*, respectively in the code.
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
