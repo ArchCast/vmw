@@ -10,7 +10,7 @@ A collection of quick utilities that allow users to generate reports associated 
 
 **vmw-host-swapfile.py**: Generates a CSV output of all ESXi hosts and the datastore used by the host's swapfile.
 
-**vmw-vms-poweron.py**:  Generates a list of all virtual machines and its power state.  Then the user may choose to toggle (on/off) the power state of the VM.
+**vmw-vms-poweron.py**:  Generates a list of all virtual machines and its current power state.  Then the user may choose to toggle (on/off) the power state of the VM.
 
 
 
