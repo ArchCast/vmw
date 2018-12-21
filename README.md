@@ -4,7 +4,7 @@ Codex of my VMware-related CLI utilities written in Python 2.
 A collection of quick utilities that allow users to generate reports associated with VMware virtual machines, ESXi hosts, datastores and changing its powered state.
 
 
-## Utilities:
+## Utilities
 
 **vmw-vms-ds-match.py**: Generates a CSV output of all virtual machines that uses any of the datastores the user have defined.
 
