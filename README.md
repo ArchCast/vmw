@@ -1,7 +1,7 @@
 # vmw
 Codex of my VMware-related CLI utilities written in Python 2.
 
-A collection of quick utilities that allow users to generate reports associated with VMware virtual machines, ESXi hosts, datastores and changing its powered state.
+A collection of CLI utilities that allow users to generate reports associated with VMware virtual machines, ESXi hosts, datastores and changing its powered state.
 
 
 ## Utilities:
